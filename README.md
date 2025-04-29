@@ -478,7 +478,7 @@ Get started quickly with our pre-configured environments. Click the icons below 
     <img src="https://github.com/ultralytics/assets/releases/download/v0.0.0/logo-gcp-small.png" width="10%" /></a>
 </div>
 
-## 🤝 Run
+##  Run
 
 Run python realtime.py file for the implementation
 
