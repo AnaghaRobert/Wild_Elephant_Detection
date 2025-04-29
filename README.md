@@ -478,6 +478,12 @@ Get started quickly with our pre-configured environments. Click the icons below 
     <img src="https://github.com/ultralytics/assets/releases/download/v0.0.0/logo-gcp-small.png" width="10%" /></a>
 </div>
 
+## 🤝 Run
+
+Run python realtime.py file for the implementation
+
+
+
 ## 🤝 Contribute
 
 We welcome your contributions! Making YOLOv5 accessible and effective is a community effort. Please see our [Contributing Guide](https://docs.ultralytics.com/help/contributing/) to get started. Share your feedback through the [YOLOv5 Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). Thank you to all our contributors for making YOLOv5 better!
